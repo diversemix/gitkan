@@ -1,6 +1,6 @@
 {
   "name": "gitkan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command line Kanban board for git",
   "main": "src/gitkan.js",
   "bin": {
