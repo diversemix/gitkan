@@ -1,4 +1,4 @@
-const config = require('config')
+const config = require('./config')
 const colors = require('colors')
 const gitApi = require('./git-api')
 const util = require('./util')
