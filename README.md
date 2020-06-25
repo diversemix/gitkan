@@ -1,2 +1,3 @@
 # gitkan
-Command line Kanban board for git
+
+CLI to show kanban board from git
